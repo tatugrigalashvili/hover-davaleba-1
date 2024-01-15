@@ -1,0 +1,58 @@
+
+.box1{
+    width: 115px;
+    height: 36px;
+    border-radius: 10px;
+    border: none;
+    background-color: #FFD43A;
+}
+.box1:hover{
+    background-color: #8CFF98;
+}
+.box2{
+    width: 285px;
+    height: 36px;
+    border-radius: 10px;
+    border: none;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+.box2:hover{
+    background-color: #D3D3D3;
+    color: #000000;
+}
+.box3{
+    width: 336px;
+    height: 36px;
+    border-radius: 10px;
+    border: none;
+    background-color: #B43AFF;
+    color: #FFFFFF;
+}
+.box3:hover{
+    background-color: #FF3AE0;
+}
+.box4{
+    width: 441px;
+    height: 36px;
+    border-radius: 10px;
+    border: none;
+    background-color: #E9E9E9;
+}
+.box4:hover{
+    border-radius: 2px;
+    background-color: #ABABAB;
+}
+.box5{
+    width: 559px;
+    height: 36px;
+    border-radius: 10px;
+    border: none;
+    background-color: #FFD43A;
+}
+.box5:hover{
+    border-radius: 30px;
+    width: 588px;
+    height: 58px;
+    font-size: 20px;
+}
